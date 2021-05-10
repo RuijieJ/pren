@@ -5,8 +5,8 @@ This repository contains the code for our paper
 
 ## Requirements
 
-1. pytorch 1.4.0 and torchvision 0.5.0 (used in experiments of our paper)
-2. other libaries can be installed by
+- python 3.7.9, pytorch 1.4.0, and torchvision 0.5.0 (used for experiments in our paper)
+- other libaries can be installed by
 ```
 pip install -r requirements.txt
 ```
