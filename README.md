@@ -42,11 +42,11 @@ Two simple steps to train your own model:
 
 To run the training code, one can only modify ```image_dir``` and ```train_list``` to his own training data. 
 
-```image_dir``` is the path of training data root (e.g., ./samples)
+```image_dir``` is the path of training data root.
 
 ```train_list``` is the path of a text file containing image paths (relative to ```image_dir```) and corresponding labels.
 
-E.g., ```train_list``` can be a text file with the following content:
+For example, ```image_dir``` could be ```'./samples'```, and ```train_list``` could be a text file with the following content:
 
 ```
 001.jpg RONALDO
