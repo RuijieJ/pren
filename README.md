@@ -5,9 +5,8 @@ This repository contains the code for our paper
 
 ## Requirements
 
-1. pytorch 1.4.0 (higher version may cause problem in the test stage)
-2. torchvision 0.5.0
-3. other libaries can be installed by
+1. pytorch 1.4.0 and torchvision 0.5.0 (used in experiments of our paper)
+2. other libaries can be installed by
 ```
 pip install -r requirements.txt
 ```
@@ -41,7 +40,7 @@ To run the training code, one can only modify ```image_dir``` and ```train_list`
 
 ```train_list``` is the path of a text file containing image paths (relative to ```image_dir```) and corresponding labels.
 
-E.g., ```train_list``` can be a .txt file with the following content:
+E.g., ```train_list``` can be a text file with the following content:
 
 ```
 001.jpg RONALDO
