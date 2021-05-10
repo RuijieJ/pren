@@ -46,7 +46,7 @@ To run the training code, one can only modify ```image_dir``` and ```train_list`
 
 ```train_list``` is the path of a text file containing image paths (relative to ```image_dir```) and corresponding labels.
 
-For example, ```image_dir``` could be ```'./samples'```, and ```train_list``` could be a text file with the following content:
+For example, ```image_dir``` could be ```'./samples'```, and ```train_list``` could be a text file with the following content
 
 ```
 001.jpg RONALDO
@@ -58,7 +58,7 @@ For example, ```image_dir``` could be ```'./samples'```, and ```train_list``` co
 Similar to train, one can modify ```Configs/testConf.py``` and run ```python test.py``` to evaluate a model.
 
 ## Citation
-If you find this project helpful for your research, please cite our paper:
+If you find this project helpful for your research, please cite our paper
 
 ```
 @inproceedings{yan2021primitive,
