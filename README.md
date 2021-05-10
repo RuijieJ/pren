@@ -7,7 +7,7 @@ For now only code for PREN is provided, code for PREN2D is being sorted out.
 
 ## Requirements
 
-- python 3.7.9, pytorch 1.4.0, and torchvision 0.5.0 (other versions will probably work but not tested)
+- python 3.7.9, pytorch 1.4.0, and torchvision 0.5.0 (other versions will probably work, but we didn't test)
 - other libaries can be installed by
 ```
 pip install -r requirements.txt
@@ -17,7 +17,11 @@ pip install -r requirements.txt
 
 We provide code for using our pretrained model to recognize text images.
 
-To recognize three samples in the "samples" folder, just run 
+- The pretrained model can be downloaded via Baidu net disk: [download_link](https://pan.baidu.com/s/1iHc_F2pNUS1_QwBUaMrxvw) key: 2txt
+
+- After downloading the pretrained model (pren.pth), put it in the **"models"** folder.
+
+- To recognize three samples in the "samples" folder, just run 
 ```python
 python recog.py
 ```
