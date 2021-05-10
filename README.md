@@ -37,8 +37,8 @@ samples/003.jpg: salmon
 ## Train
 Two simple steps to train your own model:
 
-1. Modify training configurations in ```Configs/trainConf.py```
-2. Run ```python train.py```
+- Modify training configurations in ```Configs/trainConf.py```
+- Run ```python train.py```
 
 To run the training code, one can only modify ```image_dir``` and ```train_list``` to his own training data. 
 
