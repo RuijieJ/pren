@@ -1,7 +1,7 @@
 # Primitive Representation Learning Network (PREN)
 This repository contains the code for our paper 
 
-**"Primitive Representation Learning for Scene Text Recognition" (accepted by CVPR 2021)**
+**Primitive Representation Learning for Scene Text Recognition**
 
 For now only code for PREN is provided, code for PREN2D is being sorted out.
 
