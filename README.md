@@ -3,6 +3,8 @@ This repository contains the code for our paper
 
 **"Primitive Representation Learning for Scene Text Recognition" (accepted by CVPR 2021)**
 
+For now only code for PREN is provided, code for PREN2D is being sorted out.
+
 ## Requirements
 
 - python 3.7.9, pytorch 1.4.0, and torchvision 0.5.0 (other versions will probably work but not tested)
@@ -51,3 +53,17 @@ E.g., ```train_list``` can be a text file with the following content:
 ## Test
 Similar to train, one can modify ```Configs/testConf.py``` and run ```python test.py``` to evaluate a model.
 
+## Citation
+If you find this project helpful for your research, please cite our paper:
+
+```
+@inproceedings{yan2021primitive,
+  author    = {Yan, Ruijie and
+               Peng, Liangrui and
+               Xiao, Shanyu and
+               Yao, Gang},
+  title     = {Primitive Representation Learning for Scene Text Recognition},
+  booktitle = {CVPR},
+  year      = {2021}
+}
+```
