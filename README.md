@@ -7,7 +7,7 @@ For now only code for PREN is provided, code for PREN2D is being sorted out.
 
 ## Requirements
 
-- python 3.7.9, pytorch 1.4.0, and torchvision 0.5.0 (other versions will probably work, but didn't being tested)
+- python 3.7.9, pytorch 1.4.0, and torchvision 0.5.0 (other versions may probably work, but didn't being tested)
 - other libaries can be installed by
 ```
 pip install -r requirements.txt
