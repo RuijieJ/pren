@@ -1,7 +1,7 @@
 # Primitive Representation Learning Network (PREN)
 This repository contains the code for our paper 
 
-> [Primitive Representation Learning for Scene Text Recognition](https://arxiv.org/pdf/2105.04286.pdf)
+> [Primitive Representation Learning for Scene Text Recognition](https://arxiv.org/abs/2105.04286)
 
 > Ruijie Yan, Liangrui Peng, Shanyu Xiao, Gang Yao
 
