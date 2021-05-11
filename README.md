@@ -36,7 +36,7 @@ samples/002.png: leaves
 samples/003.jpg: salmon
 ```
 
-## Train
+## Training
 Two simple steps to train your own model:
 
 - Modify training configurations in ```Configs/trainConf.py```
