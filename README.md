@@ -42,7 +42,7 @@ Two simple steps to train your own model:
 - Modify training configurations in ```Configs/trainConf.py```
 - Run ```python train.py```
 
-To run the training code, one can only modify ```image_dir``` and ```train_list``` to his own training data. 
+To run the training code, please modify ```image_dir``` and ```train_list``` to your own training data. 
 
 ```image_dir``` is the path of training data root.
 
