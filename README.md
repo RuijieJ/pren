@@ -56,7 +56,7 @@ For example, ```image_dir``` could be ```'./samples'```, and ```train_list``` co
 003.jpg SALMON
 ```
 
-## Test
+## Evaluation
 Similar to train, one can modify ```Configs/testConf.py``` and run ```python test.py``` to evaluate a model.
 
 ## Citation
