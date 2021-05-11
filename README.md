@@ -1,5 +1,5 @@
 # Primitive Representation Learning Network (PREN)
-This repository contains the code for our paper 
+This repository contains the code for our paper accepted by CVPR 2021
 
 > [Primitive Representation Learning for Scene Text Recognition](https://arxiv.org/abs/2105.04286)
 
