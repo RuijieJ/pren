@@ -87,7 +87,7 @@ class Tester(object):
                           .format(gt, pred, '' if pred == gt else 'error'))
 
                 progress.update(10 * step + 1)
-                progress.finish()
+            progress.finish()
 
             print('-' * 50)
             print('Acc_word = {:.3f}%'.format(100 * n_correct / n_ims))
