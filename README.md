@@ -5,10 +5,12 @@ This repository contains the code for our paper accepted by CVPR 2021
 
 > Ruijie Yan, Liangrui Peng, Shanyu Xiao, Gang Yao
 
+For now we only provide code for PREN.
+
 ## Requirements
 
-- python 3.7.9, pytorch 1.4.0, and torchvision 0.5.0 (other versions may probably work, but didn't being tested)
-- other libaries can be installed by
+- python 3.7.9, pytorch 1.4.0, and torchvision 0.5.0
+- other libraries can be installed by
 ```
 pip install -r requirements.txt
 ```
