@@ -59,6 +59,9 @@ For example, ```image_dir``` could be ```'./samples'```, and ```train_list``` co
 ## Evaluation
 Similar to train, one can modify ```Configs/testConf.py``` and run ```python test.py``` to evaluate a model.
 
+## Acknowledgement
+The code of EfficientNet is modified from [EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch), where we modified output multi-scale feature maps.
+
 ## Citation
 If you find this project helpful for your research, please cite our paper
 
