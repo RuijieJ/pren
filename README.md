@@ -73,6 +73,7 @@ If you find this project helpful for your research, please cite our paper
                Yao, Gang},
   title     = {Primitive Representation Learning for Scene Text Recognition},
   booktitle = {CVPR},
-  year      = {2021}
+  year      = {2021},
+  pages     = {284-293}
 }
 ```
