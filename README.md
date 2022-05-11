@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 We provide code for using our pretrained model to recognize text images.
 
-- The pretrained model can be downloaded via Baidu net disk: [download_link](https://pan.baidu.com/s/1iHc_F2pNUS1_QwBUaMrxvw) key: 2txt
+- The pretrained model can be downloaded via [Google drive](https://drive.google.com/file/d/1lwDlD3gLqeX4t9EEIib-JUlVWOeX8JPL/view?usp=sharing) or [Baidu net disk](https://pan.baidu.com/s/1iHc_F2pNUS1_QwBUaMrxvw) (key: 2txt)
 
 - After downloading the pretrained model (pren.pth), put it in the **"models"** folder.
 
